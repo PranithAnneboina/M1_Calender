@@ -1,1 +1,17 @@
-
+# MiniProject
+* Individual
+C Programming
+* Requirements
+What: 
+This is a software which process to show a Calender of any date.
+why:
+This is just an algorithm developed to show a calender of any month of year based on the input.
+When:
+This takes around three weeks time to implement.
+By the first week I have a plan or idea which come up to do this project.
+In the second week I will start building the project and completes by the end of third week.
+And after the completion of code construction I perform the tesing where an output is recorded.
+Who:
+This is used by the user who needs the data of a calendar.
+how:
+I am going to implement this with the help of software called Dev-c IDE to construct the code and also Virtual studio Code to check the program executing in multiplatforms.
